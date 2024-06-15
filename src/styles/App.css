@@ -1,0 +1,21 @@
+
+.app {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.loading {
+  margin-bottom: 20px;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+}
+
+.details {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
